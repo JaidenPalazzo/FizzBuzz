@@ -12,7 +12,7 @@ The goal of the FizzBuzz program is to go through each number from 1 to 100 and 
 
 For Example: 
 - for number 1, it prints '1'
-- for number 3, it ptints 'Fizz' (bc it is divisable by 3)
-- for number 5, it ptints 'Buzz' (bc it is divisable by 5)
-- for number 15, it ptints 'FizzBuzz' (bc it is divisable by 3 and 5)
+- for number 3, it prints 'Fizz' (bc it is divisable by 3)
+- for number 5, it prints 'Buzz' (bc it is divisable by 5)
+- for number 15, it prints 'FizzBuzz' (bc it is divisable by 3 and 5)
 
